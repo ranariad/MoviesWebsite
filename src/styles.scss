@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+
+
+
+$fontFamily:'segoe ui light';
+$mainColor:#f8f8f8;
+$darkColor:#212121;
+
+
+
+body
+{
+    background-color: $darkColor !important;
+    color : $mainColor !important
+}
